@@ -1,2 +1,5 @@
+[[https://mybinder.org/v2/gh/davecwright3/python-webscrape-tutorial/HEAD][https://mybinder.org/badge_logo.svg]]
+
 * What is This?
 A super simple introduction to Python web scraping.
+
